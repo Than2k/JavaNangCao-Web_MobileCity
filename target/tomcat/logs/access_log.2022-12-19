@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:15:40:23 +0700] "GET /MobileCity/ HTTP/1.1" 200 57 http-bio-8080-exec-1 45
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:15:40:29 +0700] "GET /MobileCity/send HTTP/1.1" 404 1009 http-bio-8080-exec-3 751
